@@ -132,3 +132,4 @@ dmypy.json
 ice_detection/model_1/
 shuili_detect/model/
 .DS_Store
+models
