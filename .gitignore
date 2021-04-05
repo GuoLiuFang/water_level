@@ -126,4 +126,9 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+*.h5
+*.pth
 .pyre/
+ice_detection/model_1/
+shuili_detect/model/
+.DS_Store
